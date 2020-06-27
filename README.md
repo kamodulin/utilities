@@ -1,2 +1,1 @@
-# utilities
-Common utilities
+# Common utilities
