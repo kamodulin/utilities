@@ -6,6 +6,9 @@ hosts = '/private/etc/hosts'
 localhost = '127.0.0.1'
 urls = ['www.twitter.com', 'twitter.com']
 
+# 'm.facebook.com', 'upload.facebook.com', 'apps.facebook.com', 'newsroom.fb.com', 'developers.facebook.com', 'touch.facebook.com', 'pixel.facebook.com', 'static.facebook.com', 'beta.facebook.com', 'graph.facebook.com', 'login.facebook.com', 'inyour.facebook.com', 'secure.facebook.com', 'latest.facebook.com'
+
+
 def main():
     morning = 7
     evening = 17
